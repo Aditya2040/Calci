@@ -1,19 +1,19 @@
-# Function to add two numbers
+
 def add(x, y):
   return x + y
 
 
-# Function to subtract two numbers
+
 def subtract(x, y):
   return x - y
 
 
-# Function to multiply two numbers
+
 def multiply(x, y):
   return x * y
 
 
-# Function to divide two numbers
+
 def divide(x, y):
   return x / y
 
@@ -27,9 +27,7 @@ print("1.Add")
 print("2.Subtract")
 print("3.Multiply")
 print("4.Divide")
-print("5.Square")
-
-# Take input fromthe user
+print("5.square")
 
 choice = input("Enter choice(1/2/3/4/5): ")
 
